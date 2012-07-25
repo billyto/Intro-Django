@@ -39,6 +39,7 @@ Django Community
 * #django on irc.freenode.net
 
 Django project structure:
+* http://www.jeffknupp.com/blog/2012/02/09/starting-a-django-project-the-right-way/
 * http://www.deploydjango.com/django_project_structure/index.html
 
 django-admin.py & manage.py :
