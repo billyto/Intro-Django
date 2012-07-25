@@ -1,0 +1,67 @@
+----------------------------------------------
+PYTHON:				             |		
+----------------------------------------------
+Python Downloads:
+* http://python.org/download/
+
+Python Introduction:
+* http://foureyes.github.com/pygotham-2012/introduction.html
+
+Python PIP
+* http://www.pip-installer.org
+
+Learn Python the hard way
+* http://learnpythonthehardway.org/ 
+
+----------------------------------------------
+DJANGO					     |
+----------------------------------------------
+
+Where to find more resources?
+* https://code.djangoproject.com/wiki/DjangoResources
+
+Where to find django Pacakges?
+* http://www.djangopackages.com/
+
+Why not Django Video:
+* http://www.youtube.com/watch?v=i6Fr65PFqfk
+
+Django debug toolbar
+* App - http://pypi.python.org/pypi/django-debug-toolbar/
+* Demo - http://vimeo.com/6640136
+
+Django CheatSheet:
+http://media.revsys.com/images/django-1.4-cheatsheet.pdf
+
+Django Community
+* Django Google Group -http:groups.google.com/group/django-users
+* Django Meetup NYC - http://www.djangonyc.org/
+* #django on irc.freenode.net
+
+Django project structure:
+* http://www.deploydjango.com/django_project_structure/index.html
+
+django-admin.py & manage.py :
+* https://docs.djangoproject.com/en/dev/ref/django-admin/
+
+Bootstrap Django toolkit:
+https://github.com/dyve/django-bootstrap-toolkit
+
+Bootstrap django Admin:
+* https://bitbucket.org/salvator/django-admintools-bootstrap/
+
+Django Hosting reviews
+* http://djangofriendly.com/hosts/
+* https://code.djangoproject.com/wiki/DjangoFriendlyWebHosts
+
+Other Python web frameworks
+* CherryPy - http://www.cherrypy.org/
+* Pylons (Pyramid) - http://www.pylonsproject.org/
+* Flask - http://flask.pocoo.org/
+
+Books:
+* The Definitive Guide to Django - http://amzn.com/143021936X
+* Pro Django - http://amzn.com/1430210478
+
+
+
