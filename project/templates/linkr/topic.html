@@ -1,0 +1,6 @@
+<h1>{{ topic.name }}</h1>
+<ul>
+{% for link in topic.items.all %}
+    <li>{{ link.url }}</li>
+{% endfor %}
+</ul>
